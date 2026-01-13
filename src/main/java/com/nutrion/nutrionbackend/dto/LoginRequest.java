@@ -1,6 +1,6 @@
 package com.nutrion.nutrionbackend.dto;
 
-public class LoginResquest {
+public class LoginRequest {
     
     private String email;
     private String password;
